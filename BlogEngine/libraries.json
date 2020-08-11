@@ -1,9 +1,0 @@
-{
-"Spring": {
-    "imports": ["org.springframework"],
-    "technologies": ["Web Development", "Java Frameworks", "Backend"],
-    "description": "Comprehensive programming and configuration model for modern Java-based enterprise applications.",
-    "image": "https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg",
-    "language": "Java"
-  }
- }
